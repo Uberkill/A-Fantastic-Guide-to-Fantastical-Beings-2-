@@ -1,2 +1,3 @@
-# A-Fantastic-Guide-to-Fantastical-Beings
- Creatures from Myths and where to find them!
+﻿# A Fantastic Guide to Fantastical Beings 2
+
+A C# continuation project focusing on creatures from myths and where to find them. This repository is archived for historical purposes.
